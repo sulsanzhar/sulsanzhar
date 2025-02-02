@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About me
 
-<p>I am a young and ambitious Fullstack developer with a passion for tackling challenges and solving complex problems. I don’t fear obstacles; I embrace them as opportunities to grow and improve. My dedication to development, attention to detail, and love for coding empower me to create modern and efficient digital solutions.
+<p>I am a young and ambitious Frontend Developer with a passion for tackling challenges and solving complex problems. I don’t fear obstacles; I embrace them as opportunities to grow and improve. My dedication to development, attention to detail, and love for coding empower me to create modern and efficient digital solutions.
 </p>
 
 -   🎓 Graduate of IT College
