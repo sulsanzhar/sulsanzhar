@@ -5,7 +5,10 @@
 
 ## 👨‍💻 About me
 
-<p>I am a frontend developer, and I genuinely enjoy what I do. I strive to grow in this field, constantly improving my skills and keeping up with the latest IT innovations. I love being able to put a part of myself into my code, creating solutions that people use and enjoy, making their experience more convenient and enjoyable.
+<p>
+I am a frontend developer, and I genuinely enjoy what I do. I strive to grow in this field, constantly improving my skills and keeping up with the latest IT innovations.
+<br>
+I love being able to put a part of myself into my code, creating solutions that people use and enjoy, making their experience more convenient and enjoyable.
 </p>
 
 -   🎓 Graduate of IT College
