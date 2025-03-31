@@ -35,14 +35,6 @@ I love being able to put a part of myself into my code, creating solutions that 
         <br>JavaScript
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" style="width: 50px" alt="Tailwind logo">
-        <br>Tailwind
-      </td>
-      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 50px" alt="Sass logo">
-        <br>Sass
-      </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width: 50px" alt="React logo">
         <br>React
       </td>
@@ -53,6 +45,14 @@ I love being able to put a part of myself into my code, creating solutions that 
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://i.pinimg.com/originals/92/c5/01/92c5018d77af3cc12f081f3a1388f1d4.png" style="width: 50px" alt="TanStack Query logo">
         <br>TanStack
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" style="width: 50px" alt="Tailwind logo">
+        <br>Tailwind
+      </td>
+      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 50px" alt="Sass logo">
+        <br>Sass
       </td>
     </tr>
     </table>
