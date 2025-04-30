@@ -6,11 +6,7 @@
 ## 👨‍💻 About me
 
 <p>
-I am a <b>Frontend Developer</b>, and I genuinely enjoy what I do. I strive to grow in this field, constantly improving my skills and keeping up with the latest IT innovations.
-<br>
-<br>
-I love being able to put a part of myself into my code, creating solutions that people use and enjoy, making their experience more convenient and enjoyable.
-</p>
+I am a <b>Frontend Developer</b>. With a solid technical foundation acquired through studying at specialized IT institutions — both college and university — I am eager to further immerse myself in the tech industry. I am dedicated to continuous learning, mastering new technologies, and evolving as a developer to deliver impactful and efficient solutions.
 
 -   🎓 Graduate of <b>IT College</b>
 -   👨‍🎓 I am studying at <b>International IT University</b>
