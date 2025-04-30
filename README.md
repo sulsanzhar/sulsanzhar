@@ -6,7 +6,7 @@
 ## 👨‍💻 About me
 
 <p>
-I am a <b>Frontend Developer</b>. With a solid technical foundation acquired through studying at specialized IT institutions — both college and university — I am eager to further immerse myself in the tech industry. I am dedicated to continuous learning, mastering new technologies, and evolving as a developer to deliver impactful and efficient solutions.
+I am a Frontend Developer. With a solid technical foundation acquired through studying at <b>IT College</b> and <b>International IT University</b>, I am eager to further immerse myself in the tech industry. I am dedicated to continuous learning, mastering new technologies, and evolving as a developer to deliver impactful and efficient solutions.
 
 -   🎓 Graduate of <b>IT College</b>
 -   👨‍🎓 I am studying at <b>International IT University</b>
