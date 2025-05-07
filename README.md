@@ -35,7 +35,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>TypeScript
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width: 50px" alt="React logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width: 55px" alt="React logo">
         <br>React
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
@@ -65,7 +65,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>Material UI
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="width: 50px" alt="vue logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="width: 53px" alt="vue logo">
         <br>Vue
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
