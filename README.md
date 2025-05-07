@@ -53,7 +53,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>Tailwind
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 50px" alt="Sass logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 60px; height: 45px" alt="Sass logo">
         <br>Sass
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
@@ -61,7 +61,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>Bootstrap
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px" alt="material-ui logo">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px; height: 50px" alt="material-ui logo">
         <br>Material UI
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
