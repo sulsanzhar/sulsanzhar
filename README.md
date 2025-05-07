@@ -81,7 +81,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <img src="https://i.pinimg.com/originals/92/c5/01/92c5018d77af3cc12f081f3a1388f1d4.png" style="width: 50px" alt="TanStack Query logo">
         <br>TanStack
       </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; width: 95px;">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" style="width: 50px" alt="zustand logo">
         <br>Zustand
       </td>
