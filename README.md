@@ -47,7 +47,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>TanStack
       </td>
     </tr>
-    <tr style="text-align: center; background-color: transparent !important">
+    <tr style="text-align: center; background-color: transparent;">
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" style="width: 50px" alt="Tailwind logo">
         <br>Tailwind
