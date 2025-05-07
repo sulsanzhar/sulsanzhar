@@ -46,14 +46,6 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <img src="https://i.pinimg.com/originals/92/c5/01/92c5018d77af3cc12f081f3a1388f1d4.png" style="width: 50px" alt="TanStack Query logo">
         <br>TanStack
       </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="width: 50px" alt="vue logo">
-        <br>Vue
-      </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" style="width: 50px" alt="pinia logo">
-        <br>Pinia
-      </td>
     </tr>
     <tr style="text-align: center;">
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
@@ -71,6 +63,14 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px" alt="material-ui logo">
         <br>Material UI
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="width: 50px" alt="vue logo">
+        <br>Vue
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" style="width: 50px" alt="pinia logo">
+        <br>Pinia
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://www.svgrepo.com/show/353401/ant-design.svg" style="width: 50px" alt="ant-design logo">
