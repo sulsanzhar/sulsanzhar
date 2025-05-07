@@ -82,7 +82,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
 <h3>Backend</h3>
     <tr>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="width: 50px" alt="NodeJs logo">
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="width: 45px" alt="NodeJs logo">
         <br>NodeJs
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
@@ -102,7 +102,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>Firebase
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" style="width: 50px" alt="prisma logo">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" style="width: 42px" alt="prisma logo">
         <br>Prisma
       </td>
     </tr>
@@ -115,7 +115,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>GitHub
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="width: 50px" alt="GitLab logo" alt="Gitlab icon">
+        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="width: 53px" alt="GitLab logo" alt="Gitlab icon">
         <br>Gitlab
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
