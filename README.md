@@ -130,6 +130,10 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <img src="https://www.svgrepo.com/show/374167/vite.svg" style="width: 50px" alt="Vite logo">
         <br>Vite
       </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" style="width: 50px" alt="vercel logo">
+        <br>Vercel
+      </td>
     </tr>
 </table>
 
