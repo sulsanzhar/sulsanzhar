@@ -15,8 +15,9 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
 
 ## ⚙️ Technologies and Tools I use
 
-<table style="width: 100%;">
     <h3>Frontend</h3>
+
+<table style="width: 100%;">
     <tr style="text-align: center;">
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://www.svgrepo.com/show/197982/html.svg" style="width: 50px" alt="HTML logo">
