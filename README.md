@@ -35,6 +35,28 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>TypeScript
       </td>
     </tr>
+    <tr style="text-align: center; background-color: transparent">
+        <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 60px; height: 45px" alt="Sass logo">
+        <br>Sass
+      </td>
+        <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" style="width: 50px" alt="bootstrap logo">
+        <br>Bootstrap
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" style="width: 50px" alt="Tailwind logo">
+        <br>Tailwind
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px; height: 50px" alt="material-ui logo">
+        <br>Material UI
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/353401/ant-design.svg" style="width: 50px" alt="ant-design logo">
+        <br>Ant Design
+      </td>
+    </tr>
     <tr>
       <td align="center" style="border: 1px solid #ddd; padding:  8px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width: 55px" alt="React logo">
@@ -59,28 +81,6 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" style="width: 50px" alt="zustand logo">
         <br>Zustand
-      </td>
-    </tr>
-    <tr style="text-align: center; background-color: transparent">
-        <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 60px; height: 45px" alt="Sass logo">
-        <br>Sass
-      </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" style="width: 50px" alt="bootstrap logo">
-        <br>Bootstrap
-      </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" style="width: 50px" alt="Tailwind logo">
-        <br>Tailwind
-      </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px; height: 50px" alt="material-ui logo">
-        <br>Material UI
-      </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://www.svgrepo.com/show/353401/ant-design.svg" style="width: 50px" alt="ant-design logo">
-        <br>Ant Design
       </td>
     </tr>
     </table>
