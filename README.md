@@ -35,7 +35,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>TypeScript
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;"></td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;"></td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; width: 95px;"></td>
     </tr>
     <tr style="text-align: center; background-color: transparent">
         <td align="center" style="border: 1px solid #ddd; padding: 8px;">
@@ -58,7 +58,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <img src="https://www.svgrepo.com/show/353401/ant-design.svg" style="width: 50px" alt="ant-design logo">
         <br>Ant Design
       </td>
-      <td align="center" style="border: 1px solid #ddd; padding: 8px;"></td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; width: 95px;"></td>
     </tr>
     <tr>
       <td align="center" style="border: 1px solid #ddd; padding:  8px;">
