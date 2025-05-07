@@ -37,7 +37,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
       <td style="border: none; padding: 0;"></td>
       <td style="border: none; padding: 0;"></td>
     </tr>
-    <tr style="text-align: center; background-color: transparent">
+    <tr style="text-align: center; background-color: transparent"; border: none;>
         <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 60px; height: 45px" alt="Sass logo">
         <br>Sass
