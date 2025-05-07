@@ -31,6 +31,10 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>JavaScript
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 50px" alt="TypeScript logo">
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width: 50px" alt="React logo">
         <br>React
       </td>
@@ -50,6 +54,26 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 50px" alt="Sass logo">
         <br>Sass
       </td>
+      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="width: 50px" alt="vue logo">
+        <br>Vue
+      </td>
+      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" style="width: 50px" alt="pinia logo">
+        <br>Pinia
+      </td>
+      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" style="width: 50px" alt="bootstrap logo">
+        <br>Bootstrap
+      </td>
+      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px" alt="material-ui logo">
+        <br>Material UI
+      </td>
+      <td align="center" style=" border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/353401/ant-design.svg" style="width: 50px" alt="material-ui logo">
+        <br>Ant Design
+      </td>
     </tr>
     </table>
 <table>
@@ -64,12 +88,20 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>Express
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" style="width: 55px" alt="MySQL logo">
+        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" style="width: 55px" alt="mySQL logo">
         <br>MySQL
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="width: 50px" alt="PostgreSQL logo">
         <br>PostgreSQL
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/353735/firebase.svg" style="width: 50px" alt="firebase logo">
+        <br>Firebase
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" style="width: 50px" alt="prisma logo">
+        <br>Prisma
       </td>
     </tr>
 </table>
