@@ -15,13 +15,69 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
 
 ## ⚙️ Technologies and Tools I use
 
-|                                            ![HTML](https://www.svgrepo.com/show/197982/html.svg) <br> HTML                                            |                              ![CSS](https://www.svgrepo.com/show/349330/css3.svg) <br> CSS                              | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png) <br> JavaScript |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png) <br> TypeScript | ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png) <br> React |                                               ![Redux](https://avatars.githubusercontent.com/u/13142323?v=4) <br> Redux                                               |
-|                        ![TanStack](https://i.pinimg.com/originals/92/c5/01/92c5018d77af3cc12f081f3a1388f1d4.png) <br> TanStack                        |        ![Tailwind](https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg) <br> Tailwind         |                    ![Sass](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png) <br> Sass                    |
-|                                    ![Bootstrap](https://www.svgrepo.com/show/353498/bootstrap.svg) <br> Bootstrap                                     |                ![Material UI](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg) <br> Material UI                 |                       ![Vue](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png) <br> Vue                       |
-|                 ![Pinia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png) <br> Pinia                 |                    ![Ant Design](https://www.svgrepo.com/show/353401/ant-design.svg) <br> Ant Design                    |                                                                                                                                                                       |
-
+<table style="width: 100%;">
+    <h3>Frontend</h3>
+    <tr style="text-align: center;">
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/197982/html.svg" style="width: 50px" alt="HTML logo">
+        <br>HTML
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://www.svgrepo.com/show/349330/css3.svg" style="width: 50px" alt="CSS logo">
+        <br>CSS
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" style="width: 50px" alt="JavaScript logo">
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 50px" alt="TypeScript logo">
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width: 55px" alt="React logo">
+        <br>React
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://avatars.githubusercontent.com/u/13142323?v=4" style="width: 50px" alt="Redux logo">
+        <br>Redux
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+        <img src="https://i.pinimg.com/originals/92/c5/01/92c5018d77af3cc12f081f3a1388f1d4.png" style="width: 50px" alt="TanStack Query logo">
+        <br>TanStack
+      </td>
+    </tr>
+    <tr style="text-align: center; background-color: transparent;">
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent; background-color: transparent;">
+        <img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" style="width: 50px" alt="Tailwind logo">
+        <br>Tailwind
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" style="width: 60px; height: 45px" alt="Sass logo">
+        <br>Sass
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent;">
+        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" style="width: 50px" alt="bootstrap logo">
+        <br>Bootstrap
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent;">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="width: 50px; height: 50px" alt="material-ui logo">
+        <br>Material UI
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="width: 53px" alt="vue logo">
+        <br>Vue
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" style="width: 40px" alt="pinia logo">
+        <br>Pinia
+      </td>
+      <td align="center" style="border: 1px solid #ddd; padding: 8px; background-color: transparent;">
+        <img src="https://www.svgrepo.com/show/353401/ant-design.svg" style="width: 50px" alt="ant-design logo">
+        <br>Ant Design
+      </td>
+    </tr>
+    </table>
 <table>
 <h3>Backend</h3>
     <tr>
