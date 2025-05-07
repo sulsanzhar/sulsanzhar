@@ -69,7 +69,7 @@ I am a <b>Frontend Developer.</b> With a solid technical foundation acquired thr
         <br>Vue
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" style="width: 50px" alt="pinia logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" style="width: 40px" alt="pinia logo">
         <br>Pinia
       </td>
       <td align="center" style="border: 1px solid #ddd; padding: 8px;">
