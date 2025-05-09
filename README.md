@@ -139,7 +139,7 @@
 
 <!-- ## 💬 I'm on the following social networks -->
 
-![](https://komarev.com/ghpvc/?username=sulsanzhar)
+![](https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true)
 
 <div style="display: flex; align-items: center; line-height: 0;">
   <a href="https://t.me/sulsanzhar" target="_blank" rel="noopener noreferrer">
