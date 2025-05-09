@@ -138,7 +138,6 @@
 </table> -->
 
 <!-- ## 💬 I'm on the following social networks -->
-
 <div>
   <div style="display: flex; align-items: center; line-height: 0;">
     <a href="https://t.me/sulsanzhar" target="_blank" rel="noopener noreferrer">
@@ -152,8 +151,6 @@
     </a>
   </div>
   <div style="margin-top: 20px;">
-
-![](https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true)
-
+    <img src="https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true" alt="view count" />
   </div>
 </div>
