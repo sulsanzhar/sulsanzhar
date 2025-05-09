@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
 </div>
 
-## 📢 Introduction
-
-I write code, hit save, and smile when the browser agrees. Frontend is where the magic happens.
-
 ## ⚙️ Technologies and Tools I use
 
 <table style="width: 100%;">
