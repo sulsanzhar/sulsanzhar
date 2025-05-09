@@ -140,7 +140,7 @@
 <!-- ## 💬 I'm on the following social networks -->
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="display: flex; align-items: center; line-height: 0;">
+  <div style="display: flex; align-items: center; line-height: 0; margin-bottom: 20px">
     <a href="https://t.me/sulsanzhar" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.gogeticon.net/files/2626/cd297a6563367a345bd7ae54bd2c00d8.png" style="width: 45px;" alt="telegram icon">
     </a>
