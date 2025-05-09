@@ -3,15 +3,9 @@
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
 </div>
 
-## 👨‍💻 About me
+## 📢 Introduction
 
-<p>
-I am a <b>Frontend Developer.</b> With a solid technical foundation acquired through studying at <b>IT College</b> and <b>International IT University</b>, I am eager to further immerse myself in the tech industry. I am dedicated to continuous learning, mastering new technologies, and evolving as a developer to deliver impactful and efficient solutions.
-
--   🎓 Graduate of <b>IT College</b>
--   👨‍🎓 I am studying at <b>International IT University</b>
--   💻 Completed programming courses at <b>Attractor School</b> (FullStack: React + NodeJs)
--   ✨ Graduate of the <b>TechOrda</b> program
+I write code, hit save, and smile when the browser agrees. Frontend is where the magic happens.
 
 ## ⚙️ Technologies and Tools I use
 
