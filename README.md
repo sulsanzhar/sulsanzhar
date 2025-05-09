@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>Hi there 👋</h1>
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%">
 </div>
@@ -135,7 +135,7 @@
         <br>Vercel
       </td>
     </tr>
-</table>
+</table> -->
 
 ## 💬 I'm on the following social networks
 
