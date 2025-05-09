@@ -138,9 +138,19 @@
 </table> -->
 
 <!-- ## 💬 I'm on the following social networks -->
-
-[![telegram icon](https://cdn.gogeticon.net/files/2626/cd297a6563367a345bd7ae54bd2c00d8.png)](https://t.me/sulsanzhar)
-[![WhatsApp logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7XMpA8kIlgzQ3ZFrSv3IylGenIFxxRGa5g&s)](https://wa.me/87776813503)
-[![linkedin icon](https://cdn-icons-png.flaticon.com/512/3256/3256016.png)](https://www.linkedin.com/in/sulsanzhar/)
-
-![View Count](https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true)
+<div>
+  <div style="display: flex; align-items: center; line-height: 0;">
+    <a href="https://t.me/sulsanzhar" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.gogeticon.net/files/2626/cd297a6563367a345bd7ae54bd2c00d8.png" style="width: 45px;" alt="telegram icon">
+    </a>
+    <a href="https://wa.me/87776813503" target="_blank" rel="noopener noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7XMpA8kIlgzQ3ZFrSv3IylGenIFxxRGa5g&amp;s" alt="WhatsApp logo" style="width: 45px">
+    </a>
+    <a href="https://www.linkedin.com/in/sulsanzhar/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn-icons-png.flaticon.com/512/3256/3256016.png" style="width: 45px;" alt="linkedin icon">
+    </a>
+  </div>
+  <div style="margin-top: 20px;">
+    ![View Count](https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true)
+  </div>
+</div>
