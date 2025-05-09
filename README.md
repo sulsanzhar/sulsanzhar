@@ -151,7 +151,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/3256/3256016.png" style="width: 45px;" alt="linkedin icon">
     </a>
   </div>
-  <div margin-top: 20px>
+  <div style="margin-top: 20px;">
 
 ![](https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true)
 
