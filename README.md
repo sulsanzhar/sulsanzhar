@@ -138,7 +138,7 @@
 </table> -->
 
 <!-- ## 💬 I'm on the following social networks -->
-<div>
+
   <div style="display: flex; align-items: center; line-height: 0;">
     <a href="https://t.me/sulsanzhar" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.gogeticon.net/files/2626/cd297a6563367a345bd7ae54bd2c00d8.png" style="width: 45px;" alt="telegram icon">
@@ -150,7 +150,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/3256/3256016.png" style="width: 45px;" alt="linkedin icon">
     </a>
   </div>
-  <div>
 
 ![View Count](https://komarev.com/ghpvc/?username=sulsanzhar&abbreviated=true)
 
