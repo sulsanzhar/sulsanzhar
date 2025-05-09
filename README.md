@@ -137,7 +137,7 @@
     </tr>
 </table> -->
 
-## 💬 I'm on the following social networks
+<!-- ## 💬 I'm on the following social networks -->
 
 <div style="display: flex; align-items: center; line-height: 0;">
   <a href="https://t.me/sulsanzhar" target="_blank" rel="noopener noreferrer">
